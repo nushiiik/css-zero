@@ -1,0 +1,14 @@
+span{
+    color: red;
+    font-size: 15px;
+}
+.biggreen span{
+    color:green;
+ }
+.block>p {
+    color: blue;
+}
+.block{
+    font-size: 17px;
+    border: 1px black solid;
+}
